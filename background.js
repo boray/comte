@@ -30,7 +30,7 @@ addToNotion = async function(word){
            "dict": {
              "id": "dict",
              "type": "url",
-             "url": "https://dictionary.cambridge.com",
+             "url": "https://dictionary.cambridge.com/",
            },
         }
     };
